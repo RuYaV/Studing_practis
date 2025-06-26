@@ -1,2 +1,4 @@
-1) Установите tinydb и pytest (pip install tinydb) (pip install pytest)
-2) скачайте 
+1) Установите tinydb и pytest (pip install tinydb) (pip install pytest).
+2) Скачайте все файлы с кодом.
+3) Если хотите протестировать самостоятельно импортируйте файл 'work_with_pattern', затем введите в функцию pattern строку, которую вы хотите протестировать.
+4) Или же напишите (pytest -v tests_for_work_with_pattern.py), находясь в той же директории, чтобы провести заранее заготовленные тесты. 
